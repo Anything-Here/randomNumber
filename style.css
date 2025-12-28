@@ -1,0 +1,29 @@
+@font-face {
+    font-family: PixelFont;
+    src: url(MainFont.OTF);
+}
+
+#justadiv{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(10, 10, 10);
+    color: white;
+    font-family: PixelFont;
+}
+
+button{
+    font-family: PixelFont;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+input{
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    color: white;
+    font-family: PixelFont;
+}
